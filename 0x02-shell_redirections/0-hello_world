@@ -1,2 +1,2 @@
 #!/bin/bash
-"Hello, World" I am smith >> 0-hello_world
+echo $"Hello, World"
